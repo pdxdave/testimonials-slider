@@ -26,9 +26,9 @@ body {
     width: 375px;
     height: 666px;
     background: 
-        url('./images/pattern-bg.svg') center top no-repeat,
-        url('./images/pattern-quotes.svg') center no-repeat,
-        url('./images/pattern-curve.svg') left bottom no-repeat; 
+        url('../images/pattern-bg.svg') center top no-repeat,
+        url('../images/pattern-quotes.svg') center no-repeat,
+        url('../images/pattern-curve.svg') left bottom no-repeat; 
     background-color: #fff;
     background-size: 320px, 60px, 280px;
     background-position: 60% 7%, 49% 60%, 0% 100%;
@@ -124,9 +124,9 @@ body {
         width: 1440px;
         height: 800px;
         background: 
-            url('./images/pattern-bg.svg') center top no-repeat,
-            url('./images/pattern-quotes.svg') center no-repeat,
-            url('./images/pattern-curve.svg') left bottom no-repeat; 
+            url('../images/pattern-bg.svg') center top no-repeat,
+            url('../images/pattern-quotes.svg') center no-repeat,
+            url('../images/pattern-curve.svg') left bottom no-repeat; 
         background-color: #fff;
         background-size: 700px, 120px, 600px;
         background-position: 90% 30%, 20% 32%, 0% 100%;
